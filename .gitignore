@@ -6,3 +6,4 @@ ML30.ipynb
 .ipynb_checkpoints
 gist*/
 XGBoost_mini.ipynb
+*.png
